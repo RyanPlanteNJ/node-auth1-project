@@ -19,7 +19,7 @@ module.exports = {
     migrations: {
       directory: './database/migrations',
     },
-    seed: {
+    seeds: {
       directory: './database/seeds',
     },
   },
@@ -31,7 +31,7 @@ module.exports = {
       max: 10,
     },
     migrations: {
-      diretory: './database/migrations',
+      directory: './database/migrations',
     },
     seeds: {
       directory: './database/seeds',
